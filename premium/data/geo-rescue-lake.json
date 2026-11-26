@@ -1,0 +1,313 @@
+{
+  "schema_version": 1,
+  "npcs": [
+    {
+      "id": "geo-way-138080029",
+      "location": "風雲樓",
+      "grade": "K6",
+      "weapon": 7,
+      "position": [
+        -208.96,
+        0,
+        496.14
+      ]
+    },
+    {
+      "id": "geo-way-158364457",
+      "location": "水木生活中心",
+      "grade": "K2",
+      "weapon": 6,
+      "position": [
+        -317.28,
+        0,
+        471.93
+      ]
+    },
+    {
+      "id": "geo-way-158391363",
+      "location": "小吃部",
+      "grade": "K3",
+      "weapon": 7,
+      "position": [
+        -387.2,
+        0,
+        353.15
+      ]
+    },
+    {
+      "id": "geo-way-180546702",
+      "location": "善齋",
+      "grade": "K1",
+      "weapon": 5,
+      "position": [
+        -328.74,
+        0,
+        474.8
+      ]
+    },
+    {
+      "id": "geo-way-180546707",
+      "location": "平齋",
+      "grade": "K6",
+      "weapon": 7,
+      "position": [
+        -399.01,
+        0,
+        439.76
+      ]
+    },
+    {
+      "id": "geo-way-180607992",
+      "location": "社團辦公室",
+      "grade": "K2",
+      "weapon": 6,
+      "position": [
+        -259.93,
+        0,
+        376.69
+      ]
+    },
+    {
+      "id": "geo-way-254990721",
+      "location": "大禮堂",
+      "grade": "K3",
+      "weapon": 7,
+      "position": [
+        -276.22,
+        0,
+        315.48
+      ]
+    },
+    {
+      "id": "geo-way-749979081",
+      "location": "小吃部",
+      "grade": "K1",
+      "weapon": 5,
+      "position": [
+        -347.47,
+        0,
+        385.02
+      ]
+    },
+    {
+      "id": "geo-way-920173642",
+      "location": "校園館舍",
+      "grade": "K3",
+      "weapon": 7,
+      "position": [
+        340.42,
+        0,
+        330.57
+      ]
+    },
+    {
+      "id": "geo-way-920173643",
+      "location": "校園館舍",
+      "grade": "K4",
+      "weapon": 5,
+      "position": [
+        340.56,
+        0,
+        330.57
+      ]
+    },
+    {
+      "id": "geo-way-1072287863",
+      "location": "校園館舍",
+      "grade": "K5",
+      "weapon": 6,
+      "position": [
+        -290.19,
+        0,
+        495.66
+      ]
+    },
+    {
+      "id": "geo-way-1119820875",
+      "location": "校園館舍",
+      "grade": "K1",
+      "weapon": 5,
+      "position": [
+        342.29,
+        0,
+        348.6
+      ]
+    },
+    {
+      "id": "geo-way-1119820876",
+      "location": "校園館舍",
+      "grade": "K2",
+      "weapon": 6,
+      "position": [
+        343.97,
+        0,
+        367.93
+      ]
+    },
+    {
+      "id": "geo-way-1119820877",
+      "location": "校園館舍",
+      "grade": "K3",
+      "weapon": 7,
+      "position": [
+        393.45,
+        0,
+        389.16
+      ]
+    },
+    {
+      "id": "geo-way-1120544141",
+      "location": "校園館舍",
+      "grade": "K4",
+      "weapon": 5,
+      "position": [
+        346.51,
+        0,
+        415.9
+      ]
+    },
+    {
+      "id": "geo-way-1120544142",
+      "location": "校園館舍",
+      "grade": "K5",
+      "weapon": 6,
+      "position": [
+        346.44,
+        0,
+        415.91
+      ]
+    },
+    {
+      "id": "geo-way-1120544143",
+      "location": "校園館舍",
+      "grade": "K6",
+      "weapon": 7,
+      "position": [
+        316.99,
+        0,
+        392.58
+      ]
+    },
+    {
+      "id": "geo-way-1120544144",
+      "location": "校園館舍",
+      "grade": "K1",
+      "weapon": 5,
+      "position": [
+        314.39,
+        0,
+        392.68
+      ]
+    },
+    {
+      "id": "geo-way-1120544145",
+      "location": "校園館舍",
+      "grade": "K2",
+      "weapon": 6,
+      "position": [
+        407.11,
+        0,
+        334.55
+      ]
+    },
+    {
+      "id": "geo-way-1120544146",
+      "location": "校園館舍",
+      "grade": "K3",
+      "weapon": 7,
+      "position": [
+        414.41,
+        0,
+        388.26
+      ]
+    },
+    {
+      "id": "geo-way-1120544147",
+      "location": "校園館舍",
+      "grade": "K4",
+      "weapon": 5,
+      "position": [
+        313.73,
+        0,
+        348.91
+      ]
+    },
+    {
+      "id": "geo-way-1120544148",
+      "location": "校園館舍",
+      "grade": "K5",
+      "weapon": 6,
+      "position": [
+        311.61,
+        0,
+        348.92
+      ]
+    },
+    {
+      "id": "geo-way-1120544149",
+      "location": "校園館舍",
+      "grade": "K6",
+      "weapon": 7,
+      "position": [
+        451.48,
+        0,
+        450.21
+      ]
+    },
+    {
+      "id": "geo-way-1120544150",
+      "location": "校園館舍",
+      "grade": "K1",
+      "weapon": 5,
+      "position": [
+        242.02,
+        0,
+        268.22
+      ]
+    },
+    {
+      "id": "geo-way-1120544151",
+      "location": "校園館舍",
+      "grade": "K2",
+      "weapon": 6,
+      "position": [
+        247.83,
+        0,
+        299.87
+      ]
+    },
+    {
+      "id": "place-成功湖",
+      "location": "成功湖",
+      "grade": "K6",
+      "weapon": 7,
+      "position": [
+        -97.24,
+        0,
+        258.57
+      ]
+    },
+    {
+      "id": "place-野台",
+      "location": "野台",
+      "grade": "K1",
+      "weapon": 5,
+      "position": [
+        -365.89,
+        0,
+        310.01
+      ]
+    },
+    {
+      "id": "place-溜冰場",
+      "location": "溜冰場",
+      "grade": "K2",
+      "weapon": 6,
+      "position": [
+        -259.73,
+        0,
+        450.86
+      ]
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "schema_version": 1,
+  "npcs": [
+    {
+      "id": "geo-relation-19774345",
+      "location": "竹師教育學院大樓",
+      "grade": "K4",
+      "weapon": 5,
+      "position": [
+        -627.64,
+        0,
+        1223.48
+      ]
+    },
+    {
+      "id": "geo-relation-19774346",
+      "location": "清華實驗室",
+      "grade": "K5",
+      "weapon": 6,
+      "position": [
+        -747.93,
+        0,
+        1212.76
+      ]
+    },
+    {
+      "id": "geo-way-180607981",
+      "location": "三合院",
+      "grade": "K5",
+      "weapon": 6,
+      "position": [
+        -625.35,
+        0,
+        1125.97
+      ]
+    },
+    {
+      "id": "geo-way-225001814",
+      "location": "國立清華大學創新育成中心",
+      "grade": "K6",
+      "weapon": 7,
+      "position": [
+        -827.07,
+        0,
+        1121.16
+      ]
+    },
+    {
+      "id": "geo-way-428830533",
+      "location": "校園館舍",
+      "grade": "K5",
+      "weapon": 6,
+      "position": [
+        -832.31,
+        0,
+        1100.6
+      ]
+    },
+    {
+      "id": "geo-way-432044412",
+      "location": "台積館",
+      "grade": "K6",
+      "weapon": 7,
+      "position": [
+        -847.06,
+        0,
+        1066.27
+      ]
+    },
+    {
+      "id": "geo-way-458800542",
+      "location": "校園館舍",
+      "grade": "K6",
+      "weapon": 7,
+      "position": [
+        -919.91,
+        0,
+        1024.67
+      ]
+    },
+    {
+      "id": "geo-way-517054851",
+      "location": "女廁所",
+      "grade": "K1",
+      "weapon": 5,
+      "position": [
+        -867.53,
+        0,
+        1125.89
+      ]
+    },
+    {
+      "id": "geo-way-1298767170",
+      "location": "宏亮美術館",
+      "grade": "K3",
+      "weapon": 7,
+      "position": [
+        -735.6,
+        0,
+        1130.62
+      ]
+    },
+    {
+      "id": "geo-way-1298767173",
+      "location": "捷英文物館",
+      "grade": "K4",
+      "weapon": 5,
+      "position": [
+        -606.28,
+        0,
+        1175.41
+      ]
+    },
+    {
+      "id": "geo-way-1348996052",
+      "location": "研教四區",
+      "grade": "K5",
+      "weapon": 6,
+      "position": [
+        -585.76,
+        0,
+        1058.4
+      ]
+    },
+    {
+      "id": "gate-south",
+      "location": "南校門",
+      "grade": "K1",
+      "weapon": 5,
+      "position": [
+        -835.74,
+        0,
+        1105.47
+      ]
+    }
+  ]
+}

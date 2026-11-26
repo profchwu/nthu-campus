@@ -1,0 +1,324 @@
+{
+  "schema_version": 1,
+  "npcs": [
+    {
+      "id": "geo-relation-2409070",
+      "location": "鴻齋",
+      "grade": "K1",
+      "weapon": 5,
+      "position": [
+        -285.61,
+        0,
+        650.76
+      ]
+    },
+    {
+      "id": "geo-way-158364448",
+      "location": "碩齋",
+      "grade": "K1",
+      "weapon": 5,
+      "position": [
+        34.52,
+        0,
+        593.25
+      ]
+    },
+    {
+      "id": "geo-way-180522502",
+      "location": "清齋",
+      "grade": "K1",
+      "weapon": 5,
+      "position": [
+        -347.23,
+        0,
+        626.41
+      ]
+    },
+    {
+      "id": "geo-way-180522510",
+      "location": "華齋",
+      "grade": "K3",
+      "weapon": 7,
+      "position": [
+        -275.05,
+        0,
+        510.04
+      ]
+    },
+    {
+      "id": "geo-way-180522517",
+      "location": "誠齋",
+      "grade": "K4",
+      "weapon": 5,
+      "position": [
+        -255.98,
+        0,
+        569.69
+      ]
+    },
+    {
+      "id": "geo-way-180522525",
+      "location": "義齋",
+      "grade": "K4",
+      "weapon": 5,
+      "position": [
+        -307.27,
+        0,
+        587.06
+      ]
+    },
+    {
+      "id": "geo-way-180522528",
+      "location": "新齋",
+      "grade": "K1",
+      "weapon": 5,
+      "position": [
+        -393.62,
+        0,
+        541.47
+      ]
+    },
+    {
+      "id": "geo-way-180546698",
+      "location": "禮齋",
+      "grade": "K3",
+      "weapon": 7,
+      "position": [
+        -144.92,
+        0,
+        580.17
+      ]
+    },
+    {
+      "id": "geo-way-180546699",
+      "location": "學齋",
+      "grade": "K4",
+      "weapon": 5,
+      "position": [
+        -364.97,
+        0,
+        717.66
+      ]
+    },
+    {
+      "id": "geo-way-180546701",
+      "location": "信齋B",
+      "grade": "K6",
+      "weapon": 7,
+      "position": [
+        -127.16,
+        0,
+        623.53
+      ]
+    },
+    {
+      "id": "geo-way-180546703",
+      "location": "仁齋",
+      "grade": "K2",
+      "weapon": 6,
+      "position": [
+        -110.68,
+        0,
+        577.66
+      ]
+    },
+    {
+      "id": "geo-way-180546704",
+      "location": "信齋A",
+      "grade": "K3",
+      "weapon": 7,
+      "position": [
+        -106.09,
+        0,
+        578.02
+      ]
+    },
+    {
+      "id": "geo-way-180546705",
+      "location": "明齋",
+      "grade": "K4",
+      "weapon": 5,
+      "position": [
+        -339.41,
+        0,
+        410.93
+      ]
+    },
+    {
+      "id": "geo-way-180546706",
+      "location": "信齋C",
+      "grade": "K5",
+      "weapon": 6,
+      "position": [
+        -160.49,
+        0,
+        644.47
+      ]
+    },
+    {
+      "id": "geo-way-180546708",
+      "location": "實齋",
+      "grade": "K1",
+      "weapon": 5,
+      "position": [
+        -171.84,
+        0,
+        573.28
+      ]
+    },
+    {
+      "id": "geo-way-180546711",
+      "location": "實齋交誼廳",
+      "grade": "K4",
+      "weapon": 5,
+      "position": [
+        -219.1,
+        0,
+        517.82
+      ]
+    },
+    {
+      "id": "geo-way-180607990",
+      "location": "工科館",
+      "grade": "K6",
+      "weapon": 7,
+      "position": [
+        -602.62,
+        0,
+        611.24
+      ]
+    },
+    {
+      "id": "geo-way-452438943",
+      "location": "駐衛警察隊",
+      "grade": "K3",
+      "weapon": 7,
+      "position": [
+        -515.96,
+        0,
+        527.35
+      ]
+    },
+    {
+      "id": "geo-way-544134860",
+      "location": "儒齋",
+      "grade": "K2",
+      "weapon": 6,
+      "position": [
+        -246.25,
+        0,
+        630.19
+      ]
+    },
+    {
+      "id": "geo-way-585282247",
+      "location": "BTB+",
+      "grade": "K3",
+      "weapon": 7,
+      "position": [
+        -202.09,
+        0,
+        599.85
+      ]
+    },
+    {
+      "id": "geo-way-585282248",
+      "location": "T-house",
+      "grade": "K4",
+      "weapon": 5,
+      "position": [
+        -205.73,
+        0,
+        605.3
+      ]
+    },
+    {
+      "id": "geo-way-774031999",
+      "location": "校園館舍",
+      "grade": "K2",
+      "weapon": 6,
+      "position": [
+        -17.98,
+        0,
+        543.09
+      ]
+    },
+    {
+      "id": "geo-way-1056453011",
+      "location": "校園館舍",
+      "grade": "K5",
+      "weapon": 6,
+      "position": [
+        -337.37,
+        0,
+        704.75
+      ]
+    },
+    {
+      "id": "geo-way-1060179860",
+      "location": "校園館舍",
+      "grade": "K1",
+      "weapon": 5,
+      "position": [
+        -294.8,
+        0,
+        586.33
+      ]
+    },
+    {
+      "id": "geo-way-1072287864",
+      "location": "校園館舍",
+      "grade": "K6",
+      "weapon": 7,
+      "position": [
+        -264.85,
+        0,
+        508.69
+      ]
+    },
+    {
+      "id": "geo-way-1073126720",
+      "location": "校園館舍",
+      "grade": "K1",
+      "weapon": 5,
+      "position": [
+        -117.45,
+        0,
+        525.52
+      ]
+    },
+    {
+      "id": "geo-way-1075281719",
+      "location": "校園館舍",
+      "grade": "K4",
+      "weapon": 5,
+      "position": [
+        -289.99,
+        0,
+        623.59
+      ]
+    },
+    {
+      "id": "geo-way-1075281720",
+      "location": "校園館舍",
+      "grade": "K5",
+      "weapon": 6,
+      "position": [
+        -343.06,
+        0,
+        631.41
+      ]
+    },
+    {
+      "id": "place-相思湖",
+      "location": "相思湖",
+      "grade": "K1",
+      "weapon": 5,
+      "position": [
+        -775.78,
+        0,
+        543.94
+      ]
+    }
+  ]
+}

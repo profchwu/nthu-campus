@@ -1,0 +1,236 @@
+{
+  "schema_version": 1,
+  "npcs": [
+    {
+      "id": "geo-relation-3809408",
+      "location": "人文社會館",
+      "grade": "K2",
+      "weapon": 6,
+      "position": [
+        -818.37,
+        0,
+        725.12
+      ]
+    },
+    {
+      "id": "geo-way-180607983",
+      "location": "原子爐",
+      "grade": "K6",
+      "weapon": 7,
+      "position": [
+        -491.98,
+        0,
+        697.47
+      ]
+    },
+    {
+      "id": "geo-way-180607984",
+      "location": "生命科學二館",
+      "grade": "K1",
+      "weapon": 5,
+      "position": [
+        -661.14,
+        0,
+        804.62
+      ]
+    },
+    {
+      "id": "geo-way-180607985",
+      "location": "綠色低碳能源大樓",
+      "grade": "K2",
+      "weapon": 6,
+      "position": [
+        -576.18,
+        0,
+        647.91
+      ]
+    },
+    {
+      "id": "geo-way-180607987",
+      "location": "加速器館",
+      "grade": "K3",
+      "weapon": 7,
+      "position": [
+        -480.26,
+        0,
+        838.14
+      ]
+    },
+    {
+      "id": "geo-way-180607988",
+      "location": "南校區實驗室廢水處理廠",
+      "grade": "K4",
+      "weapon": 5,
+      "position": [
+        -498.33,
+        0,
+        936.92
+      ]
+    },
+    {
+      "id": "geo-way-180607989",
+      "location": "生物科技館",
+      "grade": "K5",
+      "weapon": 6,
+      "position": [
+        -581.55,
+        0,
+        716.68
+      ]
+    },
+    {
+      "id": "geo-way-180607991",
+      "location": "高能光電實驗室",
+      "grade": "K1",
+      "weapon": 5,
+      "position": [
+        -529.72,
+        0,
+        862.15
+      ]
+    },
+    {
+      "id": "geo-way-180607993",
+      "location": "生命科學一館",
+      "grade": "K3",
+      "weapon": 7,
+      "position": [
+        -693.29,
+        0,
+        746.88
+      ]
+    },
+    {
+      "id": "geo-way-180607994",
+      "location": "生醫工程與環境科學館",
+      "grade": "K4",
+      "weapon": 5,
+      "position": [
+        -567.21,
+        0,
+        791.96
+      ]
+    },
+    {
+      "id": "geo-way-180607995",
+      "location": "同位素館",
+      "grade": "K5",
+      "weapon": 6,
+      "position": [
+        -441.66,
+        0,
+        783.52
+      ]
+    },
+    {
+      "id": "geo-way-435076861",
+      "location": "清華大學配水池",
+      "grade": "K1",
+      "weapon": 5,
+      "position": [
+        -955.73,
+        0,
+        845.37
+      ]
+    },
+    {
+      "id": "geo-way-1075272386",
+      "location": "校園館舍",
+      "grade": "K3",
+      "weapon": 7,
+      "position": [
+        -638.16,
+        0,
+        949.67
+      ]
+    },
+    {
+      "id": "geo-way-1348996053",
+      "location": "研教五區",
+      "grade": "K6",
+      "weapon": 7,
+      "position": [
+        -541.24,
+        0,
+        984.98
+      ]
+    },
+    {
+      "id": "place-荷塘",
+      "location": "荷塘",
+      "grade": "K3",
+      "weapon": 7,
+      "position": [
+        -480.32,
+        0,
+        623.33
+      ]
+    },
+    {
+      "id": "place-慈塘生態池",
+      "location": "慈塘生態池",
+      "grade": "K4",
+      "weapon": 5,
+      "position": [
+        -832.46,
+        0,
+        693.56
+      ]
+    },
+    {
+      "id": "place-南二期水池",
+      "location": "南二期水池",
+      "grade": "K5",
+      "weapon": 6,
+      "position": [
+        -1178.82,
+        0,
+        923.3
+      ]
+    },
+    {
+      "id": "place-大草原",
+      "location": "大草原",
+      "grade": "K4",
+      "weapon": 5,
+      "position": [
+        -830.23,
+        0,
+        1065.4
+      ]
+    },
+    {
+      "id": "place-奕園",
+      "location": "奕園",
+      "grade": "K3",
+      "weapon": 7,
+      "position": [
+        -637.56,
+        0,
+        965.99
+      ]
+    },
+    {
+      "id": "place-球場花園",
+      "location": "球場花園",
+      "grade": "K4",
+      "weapon": 5,
+      "position": [
+        -893.66,
+        0,
+        762.01
+      ]
+    },
+    {
+      "id": "place-涼亭花園",
+      "location": "涼亭花園",
+      "grade": "K5",
+      "weapon": 6,
+      "position": [
+        -853.07,
+        0,
+        753.84
+      ]
+    }
+  ]
+}

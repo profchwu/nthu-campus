@@ -1,0 +1,214 @@
+{
+  "schema_version": 1,
+  "npcs": [
+    {
+      "id": "geo-way-180365522",
+      "location": "創新育成中心",
+      "grade": "K4",
+      "weapon": 5,
+      "position": [
+        -52.91,
+        0,
+        146.1
+      ]
+    },
+    {
+      "id": "geo-way-180365523",
+      "location": "總圖書館",
+      "grade": "K5",
+      "weapon": 6,
+      "position": [
+        -191.14,
+        0,
+        116.45
+      ]
+    },
+    {
+      "id": "geo-way-180365525",
+      "location": "第四綜合大樓",
+      "grade": "K6",
+      "weapon": 7,
+      "position": [
+        -13.23,
+        0,
+        109.42
+      ]
+    },
+    {
+      "id": "geo-way-180365526",
+      "location": "工程一館",
+      "grade": "K1",
+      "weapon": 5,
+      "position": [
+        -89.41,
+        0,
+        147.22
+      ]
+    },
+    {
+      "id": "geo-way-180370149",
+      "location": "化工館",
+      "grade": "K2",
+      "weapon": 6,
+      "position": [
+        -217.91,
+        0,
+        0.15
+      ]
+    },
+    {
+      "id": "geo-way-180370150",
+      "location": "科儀中心",
+      "grade": "K3",
+      "weapon": 7,
+      "position": [
+        -71.8,
+        0,
+        244.07
+      ]
+    },
+    {
+      "id": "geo-way-180522500",
+      "location": "第二綜合大樓",
+      "grade": "K5",
+      "weapon": 6,
+      "position": [
+        -342.14,
+        0,
+        266.55
+      ]
+    },
+    {
+      "id": "geo-way-180522503",
+      "location": "第三綜合大樓",
+      "grade": "K2",
+      "weapon": 6,
+      "position": [
+        -339.62,
+        0,
+        146.63
+      ]
+    },
+    {
+      "id": "geo-way-180522504",
+      "location": "第一綜合大樓: 行政大樓",
+      "grade": "K3",
+      "weapon": 7,
+      "position": [
+        -236.2,
+        0,
+        208.63
+      ]
+    },
+    {
+      "id": "geo-way-180522506",
+      "location": "動機化學實驗室",
+      "grade": "K5",
+      "weapon": 6,
+      "position": [
+        -138.06,
+        0,
+        -50.91
+      ]
+    },
+    {
+      "id": "geo-way-180522507",
+      "location": "醫輔中心",
+      "grade": "K6",
+      "weapon": 7,
+      "position": [
+        -242.69,
+        0,
+        40.28
+      ]
+    },
+    {
+      "id": "geo-way-180522519",
+      "location": "立體機車停車場 (機車塔)",
+      "grade": "K5",
+      "weapon": 6,
+      "position": [
+        -146.84,
+        0,
+        -87.29
+      ]
+    },
+    {
+      "id": "geo-way-180522520",
+      "location": "教育館",
+      "grade": "K6",
+      "weapon": 7,
+      "position": [
+        -326.79,
+        0,
+        107.51
+      ]
+    },
+    {
+      "id": "geo-way-180522526",
+      "location": "化學館",
+      "grade": "K5",
+      "weapon": 6,
+      "position": [
+        -107.51,
+        0,
+        38.6
+      ]
+    },
+    {
+      "id": "geo-way-254990717",
+      "location": "合勤演藝廳",
+      "grade": "K2",
+      "weapon": 6,
+      "position": [
+        -273.04,
+        0,
+        246.3
+      ]
+    },
+    {
+      "id": "geo-way-254990725",
+      "location": "陶藝教室",
+      "grade": "K4",
+      "weapon": 5,
+      "position": [
+        -206.68,
+        0,
+        -44.33
+      ]
+    },
+    {
+      "id": "geo-way-722953421",
+      "location": "藝術工坊",
+      "grade": "K5",
+      "weapon": 6,
+      "position": [
+        -277.68,
+        0,
+        3.13
+      ]
+    },
+    {
+      "id": "geo-way-747954380",
+      "location": "校園館舍",
+      "grade": "K6",
+      "weapon": 7,
+      "position": [
+        -6.17,
+        0,
+        7.39
+      ]
+    },
+    {
+      "id": "gate-north",
+      "location": "北校門",
+      "grade": "K6",
+      "weapon": 7,
+      "position": [
+        0.0,
+        0,
+        0.0
+      ]
+    }
+  ]
+}
