@@ -1,0 +1,1 @@
+北校門救援是以清華北校門為題的非官方示意場景。所有建物、植栽與角色由本試玩版程式繪製，題庫使用專案原創 K1–K6 選擇題。Godot 引擎與第三方元件授權：https://godotengine.org/license/ 及 https://github.com/godotengine/godot/blob/4.7.2-stable/COPYRIGHT.txt
