@@ -113,6 +113,13 @@ body {
 const baseFetch=window.fetch.bind(window);
 window.fetch=async function(input,opts){
  const url=new URL(input.url||input,location.href);
+ if(url.origin===location.origin && url.pathname.endsWith('/questions.json')){
+ const result=await baseFetch(url,{cache:'no-cache'});
+ return new Response(await result.arrayBuffer(),{status:result.status,headers:{'Content-Type':'application/json'}});
+ }
+ if(url.origin===location.origin && url.pathname.endsWith('/index.pck')){
+ return baseFetch(new URL('campus-six-v2.pck',location.href),opts);
+ }
  if(url.origin===location.origin && url.pathname.endsWith('/index.wasm')){
  const packed=await baseFetch(new URL('engine.gzbin',location.href),opts);
  if(!packed.ok) return packed;
