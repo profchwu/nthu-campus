@@ -119,7 +119,7 @@ window.fetch=async function(input,options){
  return new Response(r.body.pipeThrough(new DecompressionStream('gzip')),{headers:{'Content-Type':'application/wasm'}});
  }
  if(url.pathname.endsWith('/index.pck')){
- const chunks=await Promise.all(["campus-0.bin?v=5416bbc284b4", "campus-1.bin?v=5416bbc284b4", "campus-2.bin?v=5416bbc284b4", "campus-3.bin?v=5416bbc284b4", "campus-4.bin?v=5416bbc284b4", "campus-5.bin?v=5416bbc284b4", "campus-6.bin?v=5416bbc284b4", "campus-7.bin?v=5416bbc284b4", "campus-8.bin?v=5416bbc284b4", "campus-9.bin?v=5416bbc284b4"].map(async name=>{const r=await nativeFetch(name,options);if(!r.ok)throw Error(name+' '+r.status);return r.blob()}));
+ const chunks=await Promise.all(["campus-0.bin?v=edd0f437d945", "campus-1.bin?v=edd0f437d945", "campus-2.bin?v=edd0f437d945", "campus-3.bin?v=edd0f437d945", "campus-4.bin?v=edd0f437d945", "campus-5.bin?v=edd0f437d945", "campus-6.bin?v=edd0f437d945", "campus-7.bin?v=edd0f437d945", "campus-8.bin?v=edd0f437d945", "campus-9.bin?v=edd0f437d945"].map(async name=>{const r=await nativeFetch(name,options);if(!r.ok)throw Error(name+' '+r.status);return r.blob()}));
  return new Response(new Blob(chunks).stream().pipeThrough(new DecompressionStream('gzip')));
  }
  if(url.pathname.endsWith('.json')){const r=await nativeFetch(input,options);return new Response(await r.arrayBuffer(),{status:r.status,headers:{'Content-Type':'application/json'}});}
@@ -127,7 +127,7 @@ window.fetch=async function(input,options){
 };
 </script><script src="index.js"></script>
 		<script>
-const GODOT_CONFIG = {"args":[],"canvasResizePolicy":2,"emscriptenPoolSize":8,"ensureCrossOriginIsolationHeaders":true,"executable":"index","experimentalVK":false,"fileSizes":{"index.pck":164026684,"index.wasm":39514754},"focusCanvas":true,"gdextensionLibs":[],"godotPoolSize":4};
+const GODOT_CONFIG = {"args":[],"canvasResizePolicy":2,"emscriptenPoolSize":8,"ensureCrossOriginIsolationHeaders":true,"executable":"index","experimentalVK":false,"fileSizes":{"index.pck":164027020,"index.wasm":39514754},"focusCanvas":true,"gdextensionLibs":[],"godotPoolSize":4};
 const GODOT_THREADS_ENABLED = false;
 const engine = new Engine(GODOT_CONFIG);
 
